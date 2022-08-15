@@ -29,7 +29,7 @@ ___
 A quick guide of how to install and use Zaber.
 
 ```shell
-1. go install github.com/oppsec/zaber@latest
+1. go install github.com/oppsec/zaber
 2. zaber -u https://example.com
 ```
 
