@@ -1,4 +1,4 @@
-module zaber
+module github.com/oppsec/zaber
 
 go 1.19
 

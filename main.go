@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"zaber/src/interface"
+	"github.com/oppsec/zaber/src/interface"
 
 	"github.com/fatih/color"
 	"github.com/jessevdk/go-flags"
