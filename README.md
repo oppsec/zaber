@@ -33,6 +33,8 @@ A quick guide of how to install and use Zaber.
 2. zaber -u https://example.com
 ```
 
+You can use `go install github.com/oppsec/zaber@latest` to update the tool
+
 <br><br>
 
 ### ⚙️ Pre-requisites
