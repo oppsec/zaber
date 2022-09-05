@@ -10,7 +10,7 @@ func GetBanner() {
 
 	banner_color.Println(`
 	CVE-2019-9670 exploit
-	version: 1.1
+	version: 1.2
 	`)
 
 }
